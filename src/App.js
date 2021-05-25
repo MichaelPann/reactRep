@@ -1,6 +1,6 @@
 import './App.css';
 import React, {useEffect, useState} from 'react'
-import {HashRouter as Router, Swich, Route, Link, Switch} from 'react-router-dom'
+import {HashRouter as Router, Switch, Route, Link, Switch} from 'react-router-dom'
 
 function App() {
 
